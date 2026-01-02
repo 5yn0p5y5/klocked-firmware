@@ -6,8 +6,9 @@
 physical_layout0: physical_layout_0 {
         compatible = "zmk,physical-layout";
         display-name = "13x6 Ortho";
-        transform = <&layout_transform>; // Links to the RC map we made earlier
-
+        transform = <&default_transform>; // Links to the RC map we made earlier
+        kscan = <&kscan0>;
+        
         keys = <
             // Row 0: F-Keys (y=0)
             &pixel_key 0 0 0 0   &pixel_key 100 0 0 0 &pixel_key 200 0 0 0 &pixel_key 300 0 0 0 &pixel_key 400 0 0 0 &pixel_key 500 0 0 0 &pixel_key 600 0 0 0 &pixel_key 700 0 0 0 &pixel_key 800 0 0 0 &pixel_key 900 0 0 0 &pixel_key 1000 0 0 0 &pixel_key 1100 0 0 0 &pixel_key 1200 0 0 0
