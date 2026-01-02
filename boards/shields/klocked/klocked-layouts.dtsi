@@ -91,8 +91,7 @@ keys
             , <&key_physical_attrs 100 100  100  525    0   0   0>
             , <&key_physical_attrs 100 100  200  525    0   0   0>
             , <&key_physical_attrs 100 100  300  525    0   0   0>
-            , <&key_physical_attrs 100 100  600  525    0   0   0> // Spacebar (RC 5,6)
-            , <&key_physical_attrs 100 100  700  525    0   0   0>
+            , <&key_physical_attrs 100 100  550  525    0   0   0> // Spacebar (RC 5,6)
             , <&key_physical_attrs 100 100  800  525    0   0   0>
             , <&key_physical_attrs 100 100  900  525    0   0   0>
             , <&key_physical_attrs 100 100 1000  525    0   0   0>

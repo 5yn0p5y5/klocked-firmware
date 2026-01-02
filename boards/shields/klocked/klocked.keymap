@@ -33,7 +33,7 @@
                 &kp LCTRL &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA &kp DOT &kp FSLH &kp RSFT &kp RALT
 
                 // ROW 5: Bottom Utility Row (Space at RC(5,6))
-                &kp LGUI  &none  &none  &none         &kp SPACE      &none  &kp LEFT &kp DOWN &kp UP &kp RIGHT &kp RCTL
+                &kp LGUI  &none  &none  &none         &kp SPACE             &kp LEFT &kp DOWN &kp UP &kp RIGHT &kp RCTL
             >;
         };
     };
